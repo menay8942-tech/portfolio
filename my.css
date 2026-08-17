@@ -7,6 +7,9 @@
     box-sizing: border-box;
 font-family:'popppins',sans-serif ;
 }
+@media (max-width:500px){
+
+}
 body{
 /* background-color: #081b29; */
 color: #ededed;
@@ -43,7 +46,7 @@ color: #ededed;
     height: 100%;
     background: #d9a85f31;
     animation:showRight 1s ease forwards ;
-    animation-delay: .4;
+    animation-delay: .60;
 }
 .navbar a{
     font-size: 18px;
@@ -74,7 +77,7 @@ color: #ededed;
 }
 .home{
     height: 100vh;
-    /* background: url(WhatsApp\ Image\ 2026-08-17\ at\ 8.39.25\ AM.jpeg)no-repeat; */
+    background: url(WhatsApp\ Image\ 2026-08-17\ at\ 6.47.56\ AM.jpeg)no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
